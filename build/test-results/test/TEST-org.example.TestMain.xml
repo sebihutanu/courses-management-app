@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TestMain" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-01-11T10:23:57" hostname="DESKTOP-D8B8M98" time="0.587">
+  <properties/>
+  <testcase name="coliziuniCicluStudiiContestatii10()" classname="org.example.TestMain" time="0.236"/>
+  <testcase name="coliziuniMedie08()" classname="org.example.TestMain" time="0.03"/>
+  <testcase name="toateFunctionalitatile12()" classname="org.example.TestMain" time="0.066"/>
+  <testcase name="inroleazaSimplu05()" classname="org.example.TestMain" time="0.03"/>
+  <testcase name="posteazaMedii01()" classname="org.example.TestMain" time="0.016"/>
+  <testcase name="posteazaMediiContestatii02()" classname="org.example.TestMain" time="0.02"/>
+  <testcase name="posteazaMediiContestatii03()" classname="org.example.TestMain" time="0.034"/>
+  <testcase name="posteazaMediiContestatii04()" classname="org.example.TestMain" time="0.024"/>
+  <testcase name="inroleazaCicluStudiiContestatii07()" classname="org.example.TestMain" time="0.029"/>
+  <testcase name="inroleazaCicluStudii06()" classname="org.example.TestMain" time="0.027"/>
+  <testcase name="coliziuniCicluStudii09()" classname="org.example.TestMain" time="0.041"/>
+  <testcase name="exceptieSimplu11()" classname="org.example.TestMain" time="0.025"/>
+  <system-out><![CDATA[Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:ALG
+Capacitatea maxima a fost atinsa pt cursul:ALG
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:POO
+Capacitatea maxima a fost atinsa pt cursul:POO
+Capacitatea maxima a fost atinsa pt cursul:POO
+Capacitatea maxima a fost atinsa pt cursul:POO
+Student duplicat: Carter
+Student duplicat: Fiona
+Student duplicat: Karen
+Student duplicat: Larry
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:ALG
+Capacitatea maxima a fost atinsa pt cursul:ALG
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:AA
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:Management
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:Management
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Capacitatea maxima a fost atinsa pt cursul:ALG
+Capacitatea maxima a fost atinsa pt cursul:ALG
+Capacitatea maxima a fost atinsa pt cursul:Mate1
+Student duplicat: Alina
+Student duplicat: Razvan
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
